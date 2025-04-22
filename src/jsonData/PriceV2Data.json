@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "planClass": "",
+        "plan": "Web Design & Development",
+        "planInfo": "Modern, responsive, and custom websites tailored to your business.",
+        "planPrice": "",
+        "priceType": "",
+        "list1": "Responsive Layouts",
+        "list2": "SEO-Friendly Code",
+        "list3": "Performance Optimized",
+        "icon1": "fa-solid fa-check-circle",
+        "icon2": "fa-solid fa-check-circle",
+        "icon3": "fa-solid fa-check-circle",
+        "btnLink": "contact-us",
+        "btnText": "Learn More",
+        "btnClass": "btn-dark"
+    },
+    {
+        "id": 2,
+        "planClass": "active",
+        "plan": "Mobile App Development",
+        "planInfo": "Cross-platform mobile apps that bring your ideas to life.",
+        "planPrice": "",
+        "priceType": "",
+        "list1": "Android & iOS Apps",
+        "list2": "User-Centric Design",
+        "list3": "App Store Launch",
+        "icon1": "fa-solid fa-check-circle",
+        "icon2": "fa-solid fa-check-circle",
+        "icon3": "fa-solid fa-check-circle",
+        "btnLink": "contact-us",
+        "btnText": "Learn More",
+        "btnClass": "btn-light"
+    },
+    {
+        "id": 3,
+        "planClass": "",
+        "plan": "Digital Marketing",
+        "planInfo": "Boost your online presence and reach your target audience.",
+        "planPrice": "",
+        "priceType": "",
+        "list1": "SEO & SEM",
+        "list2": "Social Media Campaigns",
+        "list3": "Analytics & Reporting",
+        "icon1": "fa-solid fa-check-circle",
+        "icon2": "fa-solid fa-check-circle",
+        "icon3": "fa-solid fa-check-circle",
+        "btnLink": "contact-us",
+        "btnText": "Learn More",
+        "btnClass": "btn-dark"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-startup-6",
+        "end": 500,
+        "info1": "Successful Strategies Delivered",
+        "info2": "over the past 7+ years"
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-team",
+        "end": 30,
+        "info1": "Recognized for Excellence",
+        "info2": "industry awards earned"
+    }
+]

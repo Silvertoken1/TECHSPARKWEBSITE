@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "dataParent": "faqAccordion",
+      "accordionId": "headingOne",
+      "collapsedClass": "",
+      "dataTarget": "#collapseOne",
+      "ariaExpanded": "true",
+      "ariaControls": "collapseOne",
+      "title": "Where can I get support for my software or tech project?",
+      "text": "TechSpark offers dedicated support for startups, developers, and businesses through our innovation lab, mentorship programs, and developer network. You can reach out via our support center or schedule a consultation with one of our tech advisors.",
+      "collapseShow": "show"
+    },
+    {
+      "id": 2,
+      "dataParent": "faqAccordion",
+      "accordionId": "headingTwo",
+      "collapsedClass": "collapsed",
+      "dataTarget": "#collapseTwo",
+      "ariaExpanded": "false",
+      "ariaControls": "collapseTwo",
+      "title": "How much does it cost to build or use software through TechSpark?",
+      "text": "Costs vary based on the scope of your project. We offer free consultations, startup-friendly packages, and enterprise-grade solutions. Some of our tools and learning programs are even free for students and early-stage innovators.",
+      "collapseShow": ""
+    },
+    {
+      "id": 3,
+      "dataParent": "faqAccordion",
+      "accordionId": "headingThree",
+      "collapsedClass": "collapsed",
+      "dataTarget": "#collapseThree",
+      "ariaExpanded": "false",
+      "ariaControls": "collapseThree",
+      "title": "What kind of data do I need to get started with TechSpark tools?",
+      "text": "To get started, you'll typically need basic information about your product idea, target users, and business goals. If you're joining a training or development program, you'll also be asked to submit relevant user data or project briefs to customize the experience.",
+      "collapseShow": ""
+    }
+  ]
+  

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-social-media",
+        "serviceTitle": "Social Media Marketing",
+        "serviceText": "Boost your brand's presence and engagement across top social platforms with tailored strategies.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 2,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-search-engine",
+        "serviceTitle": "SEO Optimization",
+        "serviceText": "Increase your website visibility and rank higher on search engines to drive organic traffic.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 3,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-marketing",
+        "serviceTitle": "Email Marketing",
+        "serviceText": "Reach your audience directly with high-converting, personalized email campaigns.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 4,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-click",
+        "serviceTitle": "PPC Advertising",
+        "serviceText": "Get instant traffic and leads through pay-per-click ads on Google and social media.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 5,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-analytics",
+        "serviceTitle": "Marketing Analytics",
+        "serviceText": "Track, analyze, and optimize your campaigns using real-time performance data.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 6,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-content",
+        "serviceTitle": "Content Marketing",
+        "serviceText": "Create valuable content that builds trust and drives customer action.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    }
+]

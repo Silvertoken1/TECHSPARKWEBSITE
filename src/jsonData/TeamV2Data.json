@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "thumb": "1.jpg",
+        "name": "Anne Ananwune",
+        "profession": "Founder / CEO",
+        "memberLink": "team-details",
+        "memberInfo": "Anne leads with passion and vision, driving innovation and sustainability across all company verticals. Her strategic mindset positions the team for long-term growth.",
+        "projectCount": 320,
+        "eMail": "anne@company.com",
+        "contactNumber": "+234-701-234-5678",
+        "animationClass": "animate__animated animate__fadeInUp",
+        "animationDelay": "200ms"
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "name": "Jesse Akpomera",
+        "profession": "Business Development Manager",
+        "memberLink": "team-details",
+        "memberInfo": "Jesse focuses on building strategic partnerships and expanding the business network. His expertise is in identifying new market opportunities and driving results.",
+        "projectCount": 280,
+        "eMail": "jesse@company.com",
+        "contactNumber": "+234-802-345-6789",
+        "animationClass": "animate__animated animate__fadeInUp",
+        "animationDelay": "400ms"
+    },
+    {
+        "id": 3,
+        "thumb": "3.jpg",
+        "name": "Innocent Ekweogu",
+        "profession": "Engineering Tech Lead",
+        "memberLink": "team-details",
+        "memberInfo": "Innocent oversees technical operations and product architecture. With a strong background in engineering, he ensures the highest standards in tech delivery.",
+        "projectCount": 310,
+        "eMail": "innocent@company.com",
+        "contactNumber": "+234-803-456-7890",
+        "animationClass": "animate__animated animate__fadeInLeft",
+        "animationDelay": "600ms"
+    }
+]

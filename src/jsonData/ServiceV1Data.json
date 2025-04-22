@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "icon1": "1.png",
+        "icon1Dark": "mobile-app.png",
+        "thumb": "1-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "We build robust, intuitive mobile applications for Android and iOS, ensuring seamless performance and business impact.",
+        "title": "Mobile App Development",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 2,
+        "icon1": "2.png",
+        "icon1Dark": "web-design.png",
+        "thumb": "2-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Create visually stunning and user-friendly websites that engage your audience and enhance your digital presence.",
+        "title": "Web Design",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 3,
+        "icon1": "3.png",
+        "icon1Dark": "business-dev.png",
+        "thumb": "3-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "From idea to execution, we help you position, launch, and grow your digital product into a thriving business.",
+        "title": "Business Development",
+        "serviceLink": "services-details"
+    }
+]

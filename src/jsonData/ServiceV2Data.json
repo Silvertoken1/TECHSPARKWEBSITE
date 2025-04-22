@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "thumb": "4.png",
+        "text": "Crafting compelling brand stories that connect emotionally and visually.",
+        "serviceName": "Brand Strategy",
+        "tag": "Branding",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    },
+    {
+        "id": 2,
+        "thumb": "5.png",
+        "text": "Designing iconic logos that leave a lasting impression.",
+        "serviceName": "Logo Design",
+        "tag": "Identity",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    },
+    {
+        "id": 3,
+        "thumb": "6.png",
+        "text": "Creating powerful visuals that align with your brand voice.",
+        "serviceName": "Graphic Design",
+        "tag": "Design",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    },
+    {
+        "id": 4,
+        "thumb": "7.png",
+        "text": "Building cohesive brand identities across all digital platforms.",
+        "serviceName": "Visual Identity",
+        "tag": "Branding",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    },
+    {
+        "id": 5,
+        "thumb": "8.png",
+        "text": "Designing engaging product packaging that enhances brand recall.",
+        "serviceName": "Packaging Design",
+        "tag": "Creative",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    },
+    {
+        "id": 6,
+        "thumb": "9.png",
+        "text": "Delivering consistent design systems that boost recognition.",
+        "serviceName": "Brand Guidelines",
+        "tag": "Design",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    }
+]

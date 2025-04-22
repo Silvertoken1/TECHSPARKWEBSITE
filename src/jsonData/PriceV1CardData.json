@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "cardClass": "active",
+        "itemClass": "",
+        "planName": "Starter Package",
+        "planText": "Ideal for small businesses or startups looking to establish an online presence.",
+        "btnLink": "contact-us",
+        "btnText": "Choose Plan",
+        "btnClass": "light",
+        "checkList1": "Responsive Website Design",
+        "checkList2": "Logo & Branding Kit",
+        "checkList3": "1 Month Free Maintenance",
+        "checkList4": "Basic SEO Setup",
+        "checkListIcon": "fa-solid fa-check-circle"
+    },
+    {
+        "id": 2,
+        "cardClass": "",
+        "itemClass": "active",
+        "planName": "Business Boost",
+        "planText": "Best for growing brands that need a powerful digital marketing and design presence.",
+        "btnLink": "contact-us",
+        "btnText": "Choose Plan",
+        "btnClass": "dark",
+        "checkList1": "Full Website & App Development",
+        "checkList2": "Social Media Marketing",
+        "checkList3": "Monthly Performance Report",
+        "checkList4": "Graphic Design & Content Creation",
+        "checkListIcon": "fa-solid fa-check-circle"
+    },
+    {
+        "id": 3,
+        "cardClass": "active",
+        "itemClass": "",
+        "planName": "Enterprise Plan",
+        "planText": "Tailored for organizations needing enterprise-level digital solutions.",
+        "btnLink": "contact-us",
+        "btnText": "Choose Plan",
+        "btnClass": "light",
+        "checkList1": "Custom Software Development",
+        "checkList2": "Full Data Analysis & Visualization",
+        "checkList3": "Marketing Automation Integration",
+        "checkList4": "12 Months Premium Support",
+        "checkListIcon": "fa-solid fa-check-circle"
+    },
+    {
+        "id": 4,
+        "cardClass": "",
+        "itemClass": "active",
+        "planName": "Ultimate Tech Suite",
+        "planText": "For clients who want complete digital transformation and ongoing tech support.",
+        "btnLink": "contact-us",
+        "btnText": "Choose Plan",
+        "btnClass": "dark",
+        "checkList1": "Website + App + Branding",
+        "checkList2": "Data Analytics Dashboard",
+        "checkList3": "Ongoing Marketing & Strategy",
+        "checkList4": "Dedicated Support Team",
+        "checkListIcon": "fa-solid fa-check-circle"
+    }
+]

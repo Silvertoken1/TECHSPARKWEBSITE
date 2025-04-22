@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "thumb": "1.jpg",
+        "icon1": "fa-solid fa-share-alt",
+        "icon2": "fa-regular fa-comment",
+        "member": "Anne Ananwune",
+        "memberLink": "team-details",
+        "designation": "Founder / CEO"
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "icon1": "fa-solid fa-share-alt",
+        "icon2": "fa-regular fa-comment",
+        "member": "Jesse Akpomera",
+        "memberLink": "team-details",
+        "designation": "Business Development Manager"
+    },
+    {
+        "id": 3,
+        "thumb": "3.jpg",
+        "icon1": "fa-solid fa-share-alt",
+        "icon2": "fa-regular fa-comment",
+        "member": "Innocent Ekweogu",
+        "memberLink": "team-details",
+        "designation": "Engineering Tech Lead"
+    }
+]
