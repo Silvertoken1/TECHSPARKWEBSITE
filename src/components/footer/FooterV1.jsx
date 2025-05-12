@@ -18,13 +18,13 @@ const FooterV1 = () => {
                     <div className="f-items default-padding-bottom pt-70 pt-xs-0">
                         <div className="row">
                             <div className="col-lg-3 col-md-6 footer-item mt-50">
-                                <div className="footer-animated-shape">
+                                {/* <div className="footer-animated-shape">
                                     <img src="/img/shape/6.png" alt="Shape" />
-                                </div>
+                                </div> */}
                                 <div className="f-item about pr-50 pr-xs-0 pr-md-0">
                                     <img className="logo" src="/img/logo/logo-light.png" alt="TechSpark Logo" />
                                     <p>
-                                        TechSpark is your trusted partner in digital transformation — from strategy to execution, we spark success through innovation.
+                                        TechSpark is your trusted partner in digital transformation, from strategy to execution, we spark success through innovation.
                                     </p>
                                     <div className="footer-social mt-30">
                                         <ul>
@@ -41,8 +41,8 @@ const FooterV1 = () => {
                                         <li><Link to="/about-us#">Who We Are</Link></li>
                                         <li><Link to="/services#">Our Services</Link></li>
                                         <li><Link to="/faq#">FAQs</Link></li>
-                                        <li><Link to="/careers#">Careers</Link></li>
-                                        <li><Link to="/pricing#">Pricing Plans</Link></li>
+                                        {/* <li><Link to="/careers#">Careers</Link></li>
+                                        <li><Link to="/pricing#">Pricing Plans</Link></li> */}
                                         <li><Link to="/contact-us#">Contact Us</Link></li>
                                     </ul>
                                 </div>
@@ -55,19 +55,19 @@ const FooterV1 = () => {
                                         <li>
                                             <div className="content">
                                                 <strong>Address:</strong>
-                                                42 Innovation Avenue, Tech District, Abuja, Nigeria
+                                                Lennar Hillside Estate,Kubwa, Abuja, Nigeria.
                                             </div>
                                         </li>
                                         <li>
                                             <div className="content">
                                                 <strong>Email:</strong>
-                                                <a href="mailto:hello@techspark.ng">hello@techspark.ng</a>
+                                                <a href="mailto:hello@techspark.ng">hello@techsparkinnovations.tech</a>
                                             </div>
                                         </li>
                                         <li>
                                             <div className="content">
                                                 <strong>Phone:</strong>
-                                                <a href="tel:+2348001234567">+234 800 123 4567</a>
+                                                <a href="tel:+2348001234567">+234 8032516865</a>
                                             </div>
                                         </li>
                                     </ul>

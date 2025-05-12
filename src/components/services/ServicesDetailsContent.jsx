@@ -51,10 +51,10 @@ const ServicesDetailsContent = ({ serviceInfo }) => {
 
                                 <h3>What We Do at TechSpark</h3>
                                 <p>
-                                    At TechSpark, we specialize in turning ideas into scalable products. From hands-on coding bootcamps and digital skill training to startup incubation and full-cycle product development, we help individuals and teams thrive in the tech economy. Our approach blends innovation, practical mentorship, and industry exposure to deliver measurable success.
+                                    TechSpark Innovations offers a full spectrum of services designed to address your most pressing digital challenges. We understand your pain points—difficulty in finding reliable tech talent, lack of end-to-end support, and the risk of launching products that never gain traction.
                                 </p>
                                 <p>
-                                    Whether you’re an aspiring developer, an early-stage founder, or a tech enthusiast looking to upskill, TechSpark provides the platform, resources, and community to accelerate your journey.
+                                    Each service is designed to not only solve a problem but also to propel your business forward. We’re here to make sure your digital solutions succeed in a competitive market.
                                 </p>
 
                                 <div className="faq-style-one service-faq mt-40">

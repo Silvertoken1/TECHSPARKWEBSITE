@@ -13,23 +13,24 @@ const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
                     
                         
                     
-                    <li className="dropdown megamenu-fw">
-                        <Link to={void (0)} className="dropdown-toggle" onClick={toggleSubMenu}>Our Project</Link>
-                        <ul className="dropdown-menu megamenu-content">
+                    <li className="dropdown">
+                    {/* <li className="dropdown megamenu-fw"> */}
+                        <Link to={void (0)} className="dropdown-toggle" onClick={toggleSubMenu}>About Us</Link>
+                        <ul className="dropdown-menu">
+                        {/* <ul className="dropdown-menu megamenu-content"> */}
                             <li>
                                 <div className="row">
-                                    <div className="col-menu col-lg-3">
+                                    {/* <div className="col-menu col-lg-3">
                                         <h6 className="title" onClick={toggleMegaMenu}>Solutions</h6>
                                         <div className="content">
                                             <ul className="menu-col">
                                                 <li><Link to="/services#">Web & App Development</Link></li>
                                                 <li><Link to="/services-2#">Branding & Design</Link></li>
                                                 <li><Link to="/services-3#">Digital Marketing</Link></li>
-                                                
                                             </ul>
                                         </div>
-                                    </div>
-                                    <div className="col-menu col-lg-3">
+                                    </div> */}
+                                    {/* <div className="col-menu col-lg-3">
                                         <h6 className="title" onClick={toggleMegaMenu}>Projects</h6>
                                         <div className="content">
                                             <ul className="menu-col">
@@ -37,17 +38,19 @@ const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
                                                 
                                             </ul>
                                         </div>
-                                    </div>
-                                    <div className="col-menu col-lg-3">
-                                        <h6 className="title" onClick={toggleMegaMenu}>Team</h6>
+                                    </div> */}
+                                    <div className="col-menu">
+                                    {/* <div className="col-menu col-lg-3"> */}
+                                        {/* <h6 className="title" onClick={toggleMegaMenu}>Team</h6> */}
                                         <div className="content">
                                             <ul className="menu-col">
+                                                <li><Link to="/about-us#">About TechSpark</Link></li>
                                                 <li><Link to="/team-2#">Meet the Team</Link></li>
-                                                <li><Link to="/team-details/1#">Meet Our Founder</Link></li>
+                                                {/* <li><Link to="/team-details/1#">Meet Our Founder</Link></li> */}
                                             </ul>
                                         </div>
                                     </div>
-                                    <div className="col-menu col-lg-3">
+                                    {/* <div className="col-menu col-lg-3">
                                         <h6 className="title" onClick={toggleMegaMenu}>Other Pages</h6>
                                         <div className="content">
                                             <ul className="menu-col">
@@ -57,17 +60,18 @@ const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
                                                
                                             </ul>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </li>
                         </ul>
                     </li>
-                    <li className="dropdown">
-                        <Link to={void (0)} className="dropdown-toggle" onClick={toggleSubMenu}>Services</Link>
-                        <ul className="dropdown-menu">
+                    <li>
+                    {/* <li className="dropdown"> */}
+                        <Link to="/services-details#">Services</Link>
+                        {/* <Link to={void (0)} className="dropdown-toggle" onClick={toggleSubMenu}>Services</Link> */}
+                        {/* <ul className="dropdown-menu">
                             <li><Link to="/services-details#">Consulting Services</Link></li>
-                          
-                        </ul>
+                        </ul> */}
                     </li>
                     
                     <li><Link to="/contact-us#">Contact Us</Link></li>

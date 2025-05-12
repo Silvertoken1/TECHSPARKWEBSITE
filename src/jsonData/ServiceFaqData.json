@@ -7,8 +7,18 @@
       "dataTarget": "#collapseOne",
       "ariaExpanded": "true",
       "ariaControls": "collapseOne",
-      "title": "Where can I get support for my software or tech project?",
-      "text": "TechSpark offers dedicated support for startups, developers, and businesses through our innovation lab, mentorship programs, and developer network. You can reach out via our support center or schedule a consultation with one of our tech advisors.",
+      "title": "I have an app idea but want to launch it the right way—profitably and with active users. Can TechSpark help?",
+      "firstText": "We assist with:",
+      "firstSpanText": "Product Development",
+      "firstSpanDescription": " – Connecting you with skilled developers to build a high-quality, scalable app.",
+      "secondSpanText": "Business Positioning",
+      "secondSpanDescription": " – Helping you define your value proposition and stand out in the market.",
+      "thirdSpanText": "User Acquisition & Growth",
+      "thirdSpanDescription": " – Crafting strategies to attract and retain active users.",
+      "fourthSpanText": "Monetization & Profitability",
+      "fourthSpanDescription": " – Ensuring your app generates revenue through the right business model.",
+      "text": "Yes! Having a great app idea is just the beginning; launching it successfully as a profitable business with engaged users requires the right strategy. At TechSpark Innovations, we don’t just build apps; we help you develop a full business strategy.",
+      "secondText": "With our team’s experience working with top tech companies of different sectors, we know what it takes to turn an app into a thriving business. Let’s help you launch the right way!",
       "collapseShow": "show"
     },
     {
@@ -19,8 +29,8 @@
       "dataTarget": "#collapseTwo",
       "ariaExpanded": "false",
       "ariaControls": "collapseTwo",
-      "title": "How much does it cost to build or use software through TechSpark?",
-      "text": "Costs vary based on the scope of your project. We offer free consultations, startup-friendly packages, and enterprise-grade solutions. Some of our tools and learning programs are even free for students and early-stage innovators.",
+      "title": "How does TechSpark ensure I get quality tech talent for my project?",
+      "text": "We understand the frustration of dealing with unreliable freelancers who deliver subpar work or disappear midway through a project. At TechSpark Innovations, we eliminate that risk by vetting and onboarding only top-tier professionals with proven experience. When you work with TechSpark Innovations, you have no direct dealings with freelancers. We take full responsibility for your project from start to finish. Your only concern is your business vision, while we handle the execution. If anything goes wrong, you hold TechSpark accountable. We ensure reliable, high-quality results, on time, with zero hassle.",
       "collapseShow": ""
     },
     {
@@ -31,8 +41,8 @@
       "dataTarget": "#collapseThree",
       "ariaExpanded": "false",
       "ariaControls": "collapseThree",
-      "title": "What kind of data do I need to get started with TechSpark tools?",
-      "text": "To get started, you'll typically need basic information about your product idea, target users, and business goals. If you're joining a training or development program, you'll also be asked to submit relevant user data or project briefs to customize the experience.",
+      "title": "I already have a website or app, but it’s not making money. Can you help me grow my business?",
+      "text": "Yes, we can! Many businesses struggle with turning digital products into profitable ventures. That’s why we offer business development services alongside our tech solutions. We analyze your current product, refine your business model, help you position your brand, and develop a growth strategy that increases your revenue. Whether it’s marketing, monetization strategies, or scaling advice, we ensure your digital investment doesn’t go to waste.",
       "collapseShow": ""
     }
   ]

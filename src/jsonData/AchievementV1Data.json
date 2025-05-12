@@ -3,14 +3,21 @@
         "id": 1,
         "icon": "flaticon-startup-6",
         "end": 500,
-        "info1": "Successful Strategies Delivered",
-        "info2": "over the past 7+ years"
+        "info1": "Highly skilled professionals across the technology and business sectors.",
+        "info2": ""
     },
     {
         "id": 2,
         "icon": "flaticon-team",
-        "end": 30,
-        "info1": "Recognized for Excellence",
-        "info2": "industry awards earned"
+        "end": 20,
+        "info1": "Successfully delivered projects across diverse tech fields of technology.",
+        "info2": ""
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-team",
+        "end": 10,
+        "info1": "Happy Clients",
+        "info2": ""
     }
 ]

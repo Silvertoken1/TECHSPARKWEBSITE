@@ -6,9 +6,9 @@ const ContactV1Reverse = () => {
     return (
         <>
             <div className="contact-area overflow-hidden default-padding" style={{ backgroundImage: "url(/img/shape/map.png)" }}>
-                <div className="shape-right-bottom">
+                {/* <div className="shape-right-bottom">
                     <img src="/img/shape/18.png" alt="Shape" />
-                </div>
+                </div> */}
                 <div className="container">
                     <div className="row align-center">
                         <div className="col-tact-stye-one col-lg-6">

@@ -1038,10 +1038,10 @@ p {
 	text-transform: uppercase;
 	color: var(--white);
 	font-weight: 800;
-	background: var(--bg-gradient);
+	/* background: var(--bg-gradient);
 	-webkit-background-clip: text;
 	background-clip: text;
-	-webkit-text-fill-color: transparent;
+	-webkit-text-fill-color: transparent; */
 	display: inline-block;
 	position: relative;
 	z-index: 1;
@@ -6485,9 +6485,9 @@ a.btn-service {
 	position: absolute;
 	left: 100%;
 	top: 30px;
-	font-size: 120px;
+	font-size: 70px;
 	font-weight: 900;
-	margin-left: -150px;
+	margin-left: 180px;
 	line-height: 1;
 	color: var(--color-primary);
 	font-weight: 800;
@@ -10517,4 +10517,13 @@ button.Toastify__close-button {
     height: 16px;
     width: 14px;
     margin-left: 30px;
+}
+
+.visible-decimal-list {
+  list-style-type: decimal !important;
+  color: black !important;
+  margin-left: 1.5em !important;
+}
+.visible-decimal-list li {
+  color: black !important;
 }

@@ -1,12 +1,22 @@
 [
     {
         "id": 1,
-        "title": "Tech-Driven Innovation",
-        "text": "At TechSpark Innovations, we fuse creativity with technology to deliver cutting-edge digital solutions tailored to your business needs."
+        "title": "Step 1: Service Request Submission",
+        "firstItem": "At TechSpark Innovations, we fuse creativity with technology to deliver cutting-edge digital solutions tailored to your business needs."
     },
     {
         "id": 2,
-        "title": "Your All-in-One Solution Hub",
+        "title": "Step 2: Consultation & Requirement Analysis",
+        "text": "From web and app development to branding, graphics, and digital marketing — TechSpark Innovations is your trusted partner for growth and impact."
+    },
+    {
+        "id": 2,
+        "title": "Step 3: Proposal & Agreement",
+        "text": "From web and app development to branding, graphics, and digital marketing — TechSpark Innovations is your trusted partner for growth and impact."
+    },
+    {
+        "id": 2,
+        "title": "Step 4: Project Kickoff",
         "text": "From web and app development to branding, graphics, and digital marketing — TechSpark Innovations is your trusted partner for growth and impact."
     }
 ]

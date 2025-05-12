@@ -51,13 +51,13 @@ const HeaderSidebarMenu = ({ isSidebarOpen, removeClasses, addClasses, searchOpe
                                 <li>
                                     <div className="content">
                                         <p>Email</p>
-                                        <strong><a href="mailto:info@techsparkinnovations.com" className='color-para'>info@techsparkinnovations.com</a></strong>
+                                        <strong><a href="mailto:info@techsparkinnovations.com" className='color-para'>hello@techsparkinnovations.tech</a></strong>
                                     </div>
                                 </li>
                                 <li>
                                     <div className="content">
                                         <p>Contact</p>
-                                        <strong><a href="tel:+23401234567890" className='color-para'>+234 (0) 123 4567 890</a></strong>
+                                        <strong><a href="tel:+23401234567890" className='color-para'>+2348032516865</a></strong>
                                     </div>
                                 </li>
                             </ul>

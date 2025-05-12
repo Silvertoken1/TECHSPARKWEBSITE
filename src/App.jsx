@@ -26,27 +26,27 @@ import { useEffect } from 'react';
 function App() {
 
   //  Preloader 
-  const [isLoading, setIsLoading] = useState(true)
+  // const [isLoading, setIsLoading] = useState(true)
 
-  useEffect(() => {
-    setTimeout(() => {
-      setIsLoading(false)
-    }, 1200)
-  }, [])
+  // useEffect(() => {
+  //   setTimeout(() => {
+  //     setIsLoading(false)
+  //   }, 1200)
+  // }, [])
 
   return (
     <>
-      {isLoading ? <Preloader /> :
+      {/* {isLoading ? <Preloader /> : */}
         <div>
           <Helmet>
-            <title>Dilabs Creative Digital Agency React Template</title>
-            <link rel="shortcut icon" href="/img/others/favicon.ico"></link>
+            <title>Tech Spark</title>
+            <link rel="shortcut icon" href="/img/others/logo.png"></link>
           </Helmet>
           <Routers />
           <ScrollUpBtn />
           <ToastContainer />
         </div>
-      }
+      {/* } */}
     </>
   )
 }

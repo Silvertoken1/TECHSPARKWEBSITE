@@ -35,7 +35,7 @@ const HeaderTopV1 = () => {
                                 </div>
                                 <div className="info">
                                     <p>Have any Questions?</p>
-                                    <h5><a href="mailto:info@crysta.com">info@bestup.com</a></h5>
+                                    <h5><a href="mailto:info@crysta.com">hello@techsparkinnovations.tech</a></h5>
                                 </div>
                             </div>
                         </div>

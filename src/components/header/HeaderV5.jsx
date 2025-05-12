@@ -71,7 +71,7 @@ const HeaderV5 = () => {
                                             </div>
                                             <div className="info">
                                                 <p>Need Help or Support?</p>
-                                                <h5><a href="mailto:support@techspark.com">support@techspark.com</a></h5>
+                                                <h5><a href="mailto:hello@techsparkinnovations.tech">hello@techsparkinnovations.tech</a></h5>
                                             </div>
                                         </div>
                                     </li>

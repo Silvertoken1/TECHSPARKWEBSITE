@@ -1,31 +1,67 @@
 [
     {
       "id": 1,
-      "listTitle": "Advanced Online Appointment",
+      "listTitle": "Mobile App Development",
       "listLink": "services-details",
       "listIcon": "fa-solid fa-angle-right"
     },
     {
       "id": 2,
-      "listTitle": "Easy Team Management",
+      "listTitle": "Web App Development",
       "listLink": "services-details",
       "listIcon": "fa-solid fa-angle-right"
     },
     {
       "id": 3,
-      "listTitle": "Multiple User & Management",
+      "listTitle": "Business Development",
       "listLink": "services-details",
       "listIcon": "fa-solid fa-angle-right"
     },
     {
       "id": 4,
-      "listTitle": "Editable & Highly Customizable",
+      "listTitle": "Web Design",
       "listLink": "services-details",
       "listIcon": "fa-solid fa-angle-right"
     },
     {
       "id": 5,
-      "listTitle": "SuperFast Cloud Data Saved",
+      "listTitle": "Cyber Security Auditing",
+      "listLink": "services-details",
+      "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+      "id": 5,
+      "listTitle": "Data Analysis",
+      "listLink": "services-details",
+      "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+      "id": 5,
+      "listTitle": "Graphic Design",
+      "listLink": "services-details",
+      "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+      "id": 5,
+      "listTitle": "UI/UX Design",
+      "listLink": "services-details",
+      "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+      "id": 5,
+      "listTitle": "Landing Pages",
+      "listLink": "services-details",
+      "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+      "id": 5,
+      "listTitle": "Website Maintenance",
+      "listLink": "services-details",
+      "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+      "id": 5,
+      "listTitle": "QA Engineering (Software Testing)",
       "listLink": "services-details",
       "listIcon": "fa-solid fa-angle-right"
     }

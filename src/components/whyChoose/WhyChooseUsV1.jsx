@@ -16,9 +16,9 @@ const WhyChooseUsV1 = ({ chooseClass }) => {
                                 className="achivement-counter"
                                 style={{ backgroundImage: 'url(img/shape/banner-4.png)' }}
                             >
-                                <div className="shape-animated-left-bottom">
+                                {/* <div className="shape-animated-left-bottom">
                                     <img src="/img/shape/11.png" alt="shape" />
-                                </div>
+                                </div> */}
                                 <ul>
                                     {AchievementV1Data.map((achievement) => (
                                         <SingleAchievementV1

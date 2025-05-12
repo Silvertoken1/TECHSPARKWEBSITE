@@ -10,7 +10,7 @@ const ServicesV1 = () => {
                     <div className="row">
                         <div className="col-lg-8 offset-lg-2">
                             <div className="site-heading text-center">
-                                <h5 className="sub-title">Service were offering</h5>
+                                <h5 className="sub-title">Services we are offering</h5>
                                 <h2 className="title">Turn Information <br /> Into Actionable Insights</h2>
                             </div>
                         </div>

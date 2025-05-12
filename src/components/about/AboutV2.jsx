@@ -11,9 +11,9 @@ const AboutV2 = () => {
                         <div className="col-lg-6 about-style-two">
                             <div className="about-two-thumb">
                                 <img src="/img/thumb/4.jpg" alt="Image Not Found" />
-                                <div className="experience">
+                                {/* <div className="experience">
                                     <h2 style={{ color: 'white' }}><strong>10</strong> Years Experience</h2>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                         <div className="col-lg-6 about-style-two pl-50 pl-md-15 pl-xs-15 mt-60 mt-xs-40">
@@ -24,22 +24,18 @@ const AboutV2 = () => {
                                 </h2>
                                 <p className="text-white">
                                     <strong>Who We Are:</strong> <br />
-                                    At TechSpark Innovations, we’re more than a digital service provider—we’re problem solvers for today’s tech challenges.
-                                    We know that many organizations and startups struggle to access the right tech talent and comprehensive business support
-                                    needed to turn great ideas into profitable ventures. That’s where we come in.
+                                    At TechSpark Innovations, we’re more than a digital service provider—we’re problem solvers for today’s tech challenges. We know that many organizations and startups struggle to access the right tech talent and comprehensive business support needed to turn great ideas into profitable ventures. That’s where we come in.
                                 </p>
 
                                 <p className="text-white">
                                     <strong>Our Background:</strong> <br />
-                                    Our team is made up of seasoned professionals with deep roots in the tech industry. We’ve had the privilege of working with
-                                    diverse tech sectors and companies such as Payoneer, Flutterwave, Monie Point, Cleva, Turing, and Paga. This experience has
-                                    equipped us with unique insights into what works and what doesn’t, allowing us to create solutions that truly meet your needs.
+                                    Our team is made up of seasoned professionals with deep roots in the tech industry, having worked across diverse sectors and with renowned companies such as Payoneer, Flutterwave, Moniepoint, Turing, Paystack, and more. This breadth of experience has equipped us with unique insights into what works and what doesn’t, enabling us to build solutions that are both innovative and practical. <br />
+                                    In addition to our technical strength, we have experienced business development managers with proven track records of launching and scaling successful startups in Nigeria and beyond. This combination of deep technical expertise and strategic business acumen positions TechSpark Innovations as the ideal partner to bring your vision to life.
                                 </p>
 
                                 <p className="text-white">
                                     <strong>Our Mission:</strong> <br />
-                                    To empower our clients by connecting them with exceptional tech talent and providing the business support they need to
-                                    launch and grow successful digital solutions.
+                                    To empower our clients by building world-class products with our exceptional tech talents and providing the business support they need to launch and grow successful digital solutions.
                                 </p>
 
                                 <p className="text-white">

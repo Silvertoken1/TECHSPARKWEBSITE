@@ -7,10 +7,10 @@ const ContactInfo = () => {
             <div className="contact-style-one-info">
                 <div className="mb-40">
                     <h2>Contact TechSpark Innovations</h2>
-                    <p>
+                    {/* <p>
                         Have a project in mind or need expert digital solutions? <br />
                         Get in touch — we’re here to spark your next big idea!
-                    </p>
+                    </p> */}
                 </div>
                 <ul className="contact-address">
 
@@ -18,7 +18,7 @@ const ContactInfo = () => {
                         <li>
                             <div className="content">
                                 <h4 className="title">Phone</h4>
-                                <a href="tel:+2348134567890">+234 813 456 7890</a>
+                                <a href="tel:+2348134567890">+234 8032516865</a>
                             </div>
                         </li>
                     </Animate>
@@ -28,7 +28,7 @@ const ContactInfo = () => {
                             <div className="info">
                                 <h4 className="title">Location</h4>
                                 <p>
-                                    TechSpark Hub, Aminu Kano Crescent, Abuja, Nigeria
+                                    Lennar Hillside Estate, Kubwa, Abuja,  Nigeria.
                                 </p>
                             </div>
                         </li>
@@ -38,7 +38,7 @@ const ContactInfo = () => {
                         <li>
                             <div className="info">
                                 <h4 className="title">Official Email</h4>
-                                <a href="mailto:hello@techspark.com.ng">hello@techspark.com.ng</a>
+                                <a href="mailto:hello@techspark.com.ng">hello@techsparkinnovations.tech</a>
                             </div>
                         </li>
                     </Animate>
