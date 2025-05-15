@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "type": "video",
+        "url": "/videos/second_videos.mp4",
+        "title": "Welcome to TechSpark Innovations",
+        "poster": "/videos/second_video_poster.jpg",
+        "description": "We bridge the gap between innovative ideas and the skilled tech experts needed to execute them. From mobile and web app development to design, cybersecurity, and beyond, our solutions address the real challenges you face every day."
+    },
+    {
+        "id": 2,
+        "type": "video",
+        "url": "/videos/first_video.mp4",
+        "title": "Welcome to TechSpark Innovations",
+        "poster": "/videos/first_video_poster.jpg'",
+        "description": "We bridge the gap between innovative ideas and the skilled tech experts needed to execute them. From mobile and web app development to design, cybersecurity, and beyond, our solutions address the real challenges you face every day."
+    },
+    {
+        "id": 3,
+        "type": "image",
+        "url": "/img/banner/4.jpg",
+        "title": "Welcome to TechSpark Innovations",
+        "description": "We bridge the gap between innovative ideas and the skilled tech experts needed to execute them. From mobile and web app development to design, cybersecurity, and beyond, our solutions address the real challenges you face every day."
+    }
+]

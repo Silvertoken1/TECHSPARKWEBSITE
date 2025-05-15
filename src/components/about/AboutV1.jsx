@@ -24,10 +24,9 @@ const AboutV1 = () => {
                             >
                                 <ul className="check-list-item list-unstyled">
                                     <li className="mb-4">
-                                        <h5 className="fw-bold text-white">Innovative Tech Agency</h5>
+                                        <h5 className="fw-bold text-white">Seamless Startup Launch</h5>
                                         <p className="text-white">
-                                            At TechSpark, we combine creativity and technology to deliver cutting-edge
-                                            solutions that drive digital success and business growth.
+                                            At TechSpark, we blend innovative technology with strategic business development to help you launch your startup effortlessly. From idea to execution, we provide the tools, expertise, and support you need to build, grow, and succeed in today’s digital world.
                                         </p>
                                     </li>
                                     <li>

@@ -2,15 +2,15 @@
     {
         "id": 1,
         "icon": "flaticon-layers",
-        "serviceName": "User-Friendly Interface",
+        "serviceName": "Mobile Application",
         "serviceLink": "services-details",
-        "serviceText": "At TechSpark, we design intuitive interfaces that enhance user experience and boost productivity for all users."
+        "serviceText": "We build robust, intuitive mobile applications for Android and iOS, ensuring seamless performance and business impact."
     },
     {
         "id": 2,
         "icon": "flaticon-secure-1",
-        "serviceName": "Advanced Encryption",
+        "serviceName": "Web Application",
         "serviceLink": "services-details",
-        "serviceText": "Security is a priority at TechSpark — we deploy cutting-edge encryption to keep your data safe and confidential."
+        "serviceText": "Create visually stunning and user-friendly websites that engage your audience and enhance your digital presence."
     }
 ]

@@ -13,11 +13,11 @@ const FooterV1 = () => {
 
     return (
         <>
-            <footer className="text-light" style={{ backgroundColor: "#662D91", backgroundImage: "url(/img/shape/5.png)" }}>
+            <footer className="text-light" style={{ backgroundColor: "#662D91", backgroundImage: "url(/img/shape/5.png)"}}>
                 <div className="container">
-                    <div className="f-items default-padding-bottom pt-70 pt-xs-0">
+                    <div className="f-items default-padding-bottom pt-70 pt-xs-0" >
                         <div className="row">
-                            <div className="col-lg-3 col-md-6 footer-item mt-50">
+                            <div className="col-lg-4 col-md-6 footer-item mt-50">
                                 {/* <div className="footer-animated-shape">
                                     <img src="/img/shape/6.png" alt="Shape" />
                                 </div> */}
@@ -33,8 +33,7 @@ const FooterV1 = () => {
                                     </div>
                                 </div>
                             </div>
-
-                            <div className="col-lg-3 col-md-6 mt-50 footer-item pl-50 pl-md-15 pl-xs-15">
+                            <div className="col-lg-3 col-md-6 mt-50 footer-item pl-50 pl-md-15 pl-xs-15" style={{ marginLeft: '200px'}}> 
                                 <div className="f-item link">
                                     <h4 className="widget-title">Company</h4>
                                     <ul>
@@ -74,7 +73,7 @@ const FooterV1 = () => {
                                 </div>
                             </div>
 
-                            <div className="col-lg-3 col-md-6 footer-item mt-50">
+                            {/* <div className="col-lg-3 col-md-6 footer-item mt-50">
                                 <div className="f-item newsletter">
                                     <h4 className="widget-title">Newsletter</h4>
                                     <p>
@@ -85,7 +84,7 @@ const FooterV1 = () => {
                                         <button type="submit"><i className="fas fa-arrow-right"></i></button>
                                     </form>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
@@ -95,7 +94,7 @@ const FooterV1 = () => {
                         <div className="row">
                             <div className="col-lg-12">
                                 <p>
-                                    &copy; {new Date().getFullYear()} TechSpark. Igniting Ideas. Powering Futures.
+                                    &copy; {new Date().getFullYear()} TechSpark Innovations. Your partner in progress...
                                 </p>
                             </div>
                         </div>

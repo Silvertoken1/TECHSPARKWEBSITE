@@ -42,7 +42,7 @@ const ServicesDetailsContent = ({ serviceInfo }) => {
                                             <div className="content">
                                                 <h3>The Challenge</h3>
                                                 <p>
-                                                    In a rapidly evolving tech world, startups and digital creators face hurdles around funding, mentorship, and go-to-market strategies. At TechSpark, we bridge that gap—turning potential into real-world impact through agile support, structured programs, and access to industry leaders.
+                                                    We know that many organizations and startups struggle to access the right tech talent and comprehensive business support needed to turn great ideas into profitable ventures.
                                                 </p>
                                             </div>
                                         </div>
@@ -51,10 +51,10 @@ const ServicesDetailsContent = ({ serviceInfo }) => {
 
                                 <h3>What We Do at TechSpark</h3>
                                 <p>
-                                    TechSpark Innovations offers a full spectrum of services designed to address your most pressing digital challenges. We understand your pain points—difficulty in finding reliable tech talent, lack of end-to-end support, and the risk of launching products that never gain traction.
+                                    Our team is made up of seasoned professionals with deep roots in the tech industry, having worked across diverse sectors and with renowned companies such as Payoneer, Flutterwave, Moniepoint, Turing, Paystack, and more. This breadth of experience has equipped us with unique insights into what works and what doesn’t, enabling us to build solutions that are both innovative and practical.
                                 </p>
                                 <p>
-                                    Each service is designed to not only solve a problem but also to propel your business forward. We’re here to make sure your digital solutions succeed in a competitive market.
+                                In addition to our technical strength, we have experienced business development managers with proven track records of launching and scaling successful startups in Nigeria and beyond. This combination of deep technical expertise and strategic business acumen positions TechSpark Innovations as the ideal partner to bring your vision to life.
                                 </p>
 
                                 <div className="faq-style-one service-faq mt-40">

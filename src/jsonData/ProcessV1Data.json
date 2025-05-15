@@ -3,24 +3,24 @@
         "id": 1,
         "icon": "flaticon-cyber-security",
         "number": "01",
-        "title": "Data Exchange"
+        "title": "Software Engineering"
     },
     {
         "id": 2,
         "icon": "flaticon-paper",
         "number": "02",
-        "title": "Document Management"
+        "title": "Data Analytics"
     },
     {
         "id": 3,
         "icon": "flaticon-start-up",
         "number": "03",
-        "title": "Workflow Optimization"
+        "title": "Cybersecurity"
     },
     {
         "id": 4,
         "icon": "flaticon-support-1",
         "number": "04",
-        "title": "Digital Business Support"
+        "title": "Business Development"
     }
 ]

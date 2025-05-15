@@ -2,36 +2,37 @@ import { HashLink as Link } from 'react-router-hash-link';
 import Animate from '../animation/Animate';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { EffectFade, Autoplay, Navigation } from 'swiper/modules';
+import BannerV1Data from '../../jsonData/BannerV1Data.json';
 import 'swiper/css';
 import 'swiper/css/effect-fade';
 import 'swiper/css/navigation';
 
 const BannerV1 = () => {
-    const slides = [
-        {
-            id: 1,
-            type: 'video',
-            url: '/videos/second_videos.mp4',
-            title: 'Welcome to TechSpark Innovations',
-            poster: '/videos/second_video_poster.jpg',
-            description: 'We bridge the gap between innovative ideas and the skilled tech experts needed to execute them. From mobile and web app development to design, cybersecurity, and beyond, our solutions address the real challenges you face every day.'
-        },
-        {
-            id: 2,
-            type: 'video',
-            url: '/videos/first_video.mp4',
-            title: 'Welcome to TechSpark Innovations',
-            poster: '/videos/first_video_poster.jpg',
-            description: 'We bridge the gap between innovative ideas and the skilled tech experts needed to execute them. From mobile and web app development to design, cybersecurity, and beyond, our solutions address the real challenges you face every day.'
-        },
-        {
-            id: 3,
-            type: 'image',
-            url: '/img/banner/4.jpg',
-            title: 'Welcome to TechSpark Innovations',
-            description: 'We bridge the gap between innovative ideas and the skilled tech experts needed to execute them. From mobile and web app development to design, cybersecurity, and beyond, our solutions address the real challenges you face every day.'
-        },
-    ];
+    // const slides = [
+    //     {
+    //         id: 1,
+    //         type: 'video',
+    //         url: '/videos/second_videos.mp4',
+    //         title: 'Welcome to TechSpark Innovations',
+    //         poster: '/videos/second_video_poster.jpg',
+    //         description: 'We bridge the gap between innovative ideas and the skilled tech experts needed to execute them. From mobile and web app development to design, cybersecurity, and beyond, our solutions address the real challenges you face every day.'
+    //     },
+    //     {
+    //         id: 2,
+    //         type: 'video',
+    //         url: '/videos/first_video.mp4',
+    //         title: 'Welcome to TechSpark Innovations',
+    //         poster: '/videos/first_video_poster.jpg',
+    //         description: 'We bridge the gap between innovative ideas and the skilled tech experts needed to execute them. From mobile and web app development to design, cybersecurity, and beyond, our solutions address the real challenges you face every day.'
+    //     },
+    //     {
+    //         id: 3,
+    //         type: 'image',
+    //         url: '/img/banner/4.jpg',
+    //         title: 'Welcome to TechSpark Innovations',
+    //         description: 'We bridge the gap between innovative ideas and the skilled tech experts needed to execute them. From mobile and web app development to design, cybersecurity, and beyond, our solutions address the real challenges you face every day.'
+    //     },
+    // ];
 
     const renderMedia = (slide) => {
         if (slide.type === 'video') {
@@ -95,7 +96,7 @@ const BannerV1 = () => {
                     }}
                     className="hero-swiper"
                 >
-                    {slides.map((slide) => (
+                    {BannerV1Data.map((slide) => (
                         <SwiperSlide key={slide.id}>
                             <div className="video-container" style={{ position: 'relative', width: '100%', height: '100vh' }}>
                                 {renderMedia(slide)}
