@@ -17,7 +17,7 @@ const TestimonialV2 = () => {
                         <div className="col-lg-5">
                             <div className="testimonial-style-one-thumb">
                                 <h2 className="text-large">Testimonial</h2>
-                                <img src="/img/illustration/1.png" alt="Image Not Found" />
+                                <img src="/img/illustration/Testimonial.jpeg" alt="Image Not Found" />
                             </div>
                         </div>
                         <div className="col-lg-6 offset-lg-1 pt-200 pt-md-50 pt-xs-40">

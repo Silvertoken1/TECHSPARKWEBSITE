@@ -51,7 +51,7 @@ const AboutV1 = () => {
                                 <div
                                     className="thumb position-relative rounded overflow-hidden"
                                     style={{
-                                        backgroundImage: "url(/img/banner/2.jpg)",
+                                        backgroundImage: "url(/img/illustration/2.jpeg)",
                                         backgroundSize: 'cover',
                                         backgroundPosition: 'center',
                                         height: '400px',
